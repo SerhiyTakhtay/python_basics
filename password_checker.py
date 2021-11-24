@@ -1,0 +1,6 @@
+name = input('What is your username? ')
+print('Hello ' + name)
+password = input('Please enter your password ')
+password_length = (len(password))
+hidden_password = ('*'* password_length)
+print(f'{name} your password {hidden_password } is {password_length} symbols long') 

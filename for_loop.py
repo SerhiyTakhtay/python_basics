@@ -1,4 +1,4 @@
-#Allows run the same code over and over
+#Allows to run the same code over and over
 for item in 'ZERO TO MASTERY':
 	#iterable - capable of returning its members one at the time in a for loop
 	print (item)

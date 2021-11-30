@@ -28,4 +28,5 @@ for row in chrismas_tree:
       print(insert, end = ' ')
     else:
       print(space, end = ' ')
+  print(' ')
   
